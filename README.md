@@ -1,11 +1,11 @@
 # Graphic-program
 
-The graphics program allows you to make global and local changes on PPM or PGM files.
+The graphics program allows you to make global and local changes on PPM(RGB) or PGM(B&W) files.
 
 We have the option
 - creating a negative
 - implementation of an averaging filter
-- PPM to PGM format conversions
+- PPM to PGM format conversions (RGB to B&W)
 - displaying the photo using x-window
 - save the file
 
