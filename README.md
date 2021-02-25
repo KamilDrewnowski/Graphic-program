@@ -1,6 +1,6 @@
 # Graphic-program
 
-The graphics program allows you to make global and local changes to PPM or PGM files.
+The graphics program allows you to make global and local changes on PPM or PGM files.
 
 We have the option
 - creating a negative
